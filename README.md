@@ -77,3 +77,7 @@ Education bachelor of Science in n Computer engineering
 ICCT COLLEGE'S
 
 📬 Contact GitHub: LinkedIn: Email: jomarjohnpaquibo7@gmail.com
+
+https://paquibojm5-stack.github.io/JOMARJOHNPAQUIBO_PORTFOLIO/#home
+
+https://paquibojm5-stack.github.io/ERECPASS-/?utm_source=chatgpt.com
