@@ -19,40 +19,61 @@ by working on projects and learning as I go.
 
 
 🖥️ Programming Languages
+
 C / C++
+
 Java
+
 JavaScript
 
 
 🌐 Web & Application Development
+
 HTML / CSS
+
 React / Node.js
 
 
 🗄️ Database
+
 MySQL
+
 Firebase
+
 supabase
 
 
 ⚙️ Embedded Systems / Hardware (If applicable)
+
 Arduino
+
 Raspberry Pi
+
 Esp32
+
 Sensors & Basic Electronics
 
 
 🧰 Tools
+
 Git & GitHub
+
 VS Code
 
 
 🚀 Projects
+
   Automatic wire cutter machine 
+  
   power supply 
+  
   Project Nexus
+  
   FeedSync
 
-Education bachelor of Science in n Computer engineering ICCT COLLEGE'S
+
+Education bachelor of Science in n Computer engineering
+
+ICCT COLLEGE'S
 
 📬 Contact GitHub: LinkedIn: Email: jomarjohnpaquibo7@gmail.com
