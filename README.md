@@ -48,10 +48,10 @@ VS Code
 
 
 🚀 Projects
-
-📂 Project Nexus
-
-⚙️ FeedSync
+  Automatic wire cutter machine 
+  power supply 
+  Project Nexus
+  FeedSync
 
 Education bachelor of Science in n Computer engineering ICCT COLLEGE'S
 
